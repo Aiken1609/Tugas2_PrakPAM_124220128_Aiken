@@ -7,6 +7,6 @@
 # Untuk akun login username menggunakan nama asleb dan password menggunakn nim absleb
  - username: Yuda
  - password: 123210181
- - & \n
+ - &
  - username: Kavarera
  - password: 123210131
